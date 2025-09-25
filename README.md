@@ -1,11 +1,10 @@
-<!-- Banner Mario animado -->
+<!-- Banner retro gamer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Mario animado" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=120&section=header&text=👾%20Marcelão%20no%20Mundo%20Tech%20🚀&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- Texto de apresentação -->
 <p align="center">
-Tenho 37 anos e estou entrando de cabeça no mundo da <strong>tecnologia</strong> 🚀.<br>
+Tenho 37 anos e estou entrando de cabeça no mundo da <strong>tecnologia</strong> 🚀<br>
 Depois de anos atuando na área de qualidade e gestão, decidi virar a chave e estudar programação — comecei <strong>faculdade de Análise e Desenvolvimento de Sistemas</strong> e estou cada dia mais imerso em Python e bancos de dados.
 </p>
 
@@ -30,13 +29,13 @@ Agora estou unindo minha bagagem de processos e melhoria contínua com o univers
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   </a>
   <a href="https://www.safe.com/fme/">
-    <img src="https://raw.githubusercontent.com/rodrigo-garcia-dev/fme-logo/main/fme.png" alt="FME" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/FME_Logo.png" alt="FME" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
   </a>
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   </a>
 </p>
 
@@ -45,11 +44,11 @@ Agora estou unindo minha bagagem de processos e melhoria contínua com o univers
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelao-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelao-dev&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelao-dev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelao-dev&layout=compact&theme=radical" />
 </p>
 
 ---
