@@ -1,6 +1,6 @@
-<!-- Banner animado -->
+<!-- Banner Mario animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá,%20eu%20sou%20o%20Marcelão!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://media.giphy.com/media/Q7ozWVYCR0nyW2rvPW/giphy.gif" alt="Mario animado" width="600"/>
 </p>
 
 <!-- Texto de apresentação -->
@@ -32,8 +32,8 @@ Agora estou unindo minha bagagem de processos e melhoria contínua com o univers
   <a href="https://www.safe.com/fme/">
     <img src="https://avatars.githubusercontent.com/u/3118512?s=200&v=4" alt="FME" width="50" height="50"/>
   </a>
-  <a href="https://www.microsoft.com/excel">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="50" height="50"/>
+  <a href="https://www.microsoft.com/microsoft-365/excel">
+    <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
   </a>
   <a href="https://powerbi.microsoft.com/">
     <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
