@@ -1,6 +1,6 @@
 <!-- Banner Mario animado -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7ozWVYCR0nyW2rvPW/giphy.gif" alt="Mario animado" width="600"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Mario animado" width="600"/>
 </p>
 
 <!-- Texto de apresentação -->
@@ -24,19 +24,19 @@ Agora estou unindo minha bagagem de processos e melhoria contínua com o univers
 
 <p align="center">
   <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/sql-server">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   </a>
   <a href="https://www.safe.com/fme/">
-    <img src="https://avatars.githubusercontent.com/u/3118512?s=200&v=4" alt="FME" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/rodrigo-garcia-dev/fme-logo/main/fme.png" alt="FME" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="50" height="50"/>
   </a>
   <a href="https://powerbi.microsoft.com/">
-    <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
   </a>
 </p>
 
