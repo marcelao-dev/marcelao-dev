@@ -29,10 +29,10 @@ Agora estou unindo minha bagagem de processos e melhoria contínua com o univers
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   </a>
   <a href="https://www.safe.com/fme/">
-    <img src="https://github.com/gilbarbara/logos/raw/main/logos/fme.svg" alt="FME" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/FME_Logo.png" alt="FME" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
   </a>
   <a href="https://powerbi.microsoft.com/">
     <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
