@@ -1,7 +1,9 @@
+<!-- Banner animado -->
 <p align="center">
-  <h1>👋 Fala aí! Eu sou o Marcelão</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá,%20eu%20sou%20o%20Marcelão!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- Texto de apresentação -->
 <p align="center">
 Tenho 37 anos e estou entrando de cabeça no mundo da <strong>tecnologia</strong> 🚀.<br>
 Depois de anos atuando na área de qualidade e gestão, decidi virar a chave e estudar programação — comecei <strong>faculdade de Análise e Desenvolvimento de Sistemas</strong> e estou cada dia mais imerso em Python e bancos de dados.
@@ -18,24 +20,41 @@ Agora estou unindo minha bagagem de processos e melhoria contínua com o univers
 
 ---
 
-<p align="center">
-  <h2>🚀 Tech Stack</h2>
-</p>
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databases-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FME-FF6600?style=for-the-badge&logo=safe-software&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.microsoft.com/sql-server">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
+  </a>
+  <a href="https://www.safe.com/fme/">
+    <img src="https://avatars.githubusercontent.com/u/3118512?s=200&v=4" alt="FME" width="50" height="50"/>
+  </a>
+  <a href="https://www.microsoft.com/excel">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="50" height="50"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
+  </a>
 </p>
 
 ---
 
+## 📊 Estatísticas
+
 <p align="center">
-  <h2>🌎 Onde me achar</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelao-dev&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelao-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌎 Onde me achar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcelo-mendon%C3%A7a-46ab37173">
