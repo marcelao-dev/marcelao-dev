@@ -21,22 +21,14 @@ Agora estou unindo minha bagagem de processos e melhoria contínua com o univers
 
 ## 🚀 Tech Stack
 
+## 🚀 Tech Stack
+
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/sql-server">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
-  </a>
-  <a href="https://www.safe.com/fme/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fme.svg" alt="FME" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" alt="Excel" width="50" height="50"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" alt="Power BI" width="50" height="50"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FME-FF6600?style=for-the-badge&logo=safe-software&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
