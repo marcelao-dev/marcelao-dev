@@ -1,6 +1,6 @@
 <!-- Banner retro gamer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=120&section=header&text=👾%20Marcelão%20no%20Mundo%20Tech%20🚀&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=120&section=header&text=👾%20Marcelo%20no%20Mundo%20Tech%20🚀&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
