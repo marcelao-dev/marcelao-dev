@@ -1,55 +1,28 @@
-<!-- Banner retro gamer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=120&section=header&text=👾%20Marcelo%20no%20Mundo%20Tech%20🚀&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-</p>
+![snake gif](https://raw.githubusercontent.com/marcelao-dev/marcelao-dev/main/dist/github-contribution-grid-snake.svg)
 
-<p align="center">
-Tenho 37 anos e estou entrando de cabeça no mundo da <strong>tecnologia</strong> 🚀<br>
-Depois de anos atuando na área de qualidade e gestão, decidi virar a chave e estudar programação — comecei <strong>faculdade de Análise e Desenvolvimento de Sistemas</strong> e estou cada dia mais imerso em Python e bancos de dados.
-</p>
+# 🚀 Marcelo no Mundo Tech
 
-<p align="center">
-Sou formado em <strong>Tecnologia em Gestão da Qualidade</strong>, com <strong>MBA em Gestão de Projetos</strong> e <strong>MBA em Auditoria, Compliance e Análise de Riscos</strong>.<br>
-Agora estou unindo minha bagagem de processos e melhoria contínua com o universo da TI e desenvolvimento.
-</p>
+👋 Olá! Eu sou o **Marcelo Mendonça** e estou mergulhando de cabeça no mundo da tecnologia!  
+Depois de anos atuando na área de qualidade e gestão, decidi mudar de direção e estudar programação — comecei **Análise e Desenvolvimento de Sistemas** e estou cada dia mais focado em **Python** e **bancos de dados**.
 
-<p align="center">
-💡 Ferramentas que já fazem parte do meu dia a dia: <strong>FME (Safe Software)</strong>, <strong>Excel</strong>, <strong>Power BI</strong>.
-</p>
+💻 Sou formado em **Tecnologia em Gestão da Qualidade**, com **MBA em Gestão de Projetos** e **MBA em Auditoria, Compliance e Análise de Riscos**.  
+Agora estou unindo minha bagagem de processos e melhoria contínua com o universo da **TI** e desenvolvimento.
+
+🔧 Ferramentas que já fazem parte do meu dia a dia: **FME (Safe Software)**, **Excel**, **Power BI**.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FME-FF6600?style=for-the-badge&logo=safe-software&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![FME](https://img.shields.io/badge/FME-FF6D00?style=for-the-badge&logo=fme&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 📊 Estatísticas
+## 🌎 Conecte-se comigo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelao-dev&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelao-dev&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🌎 Onde me achar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcelo-mendon%C3%A7a-46ab37173">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/marcelao-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20Mendonça-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-mendon%C3%A7a-46ab37173/)
+[![GitHub](https://img.shields.io/badge/GitHub-marcelao--dev-181717?style=for-the-badge&logo=github)](https://github.com/marcelao-dev)
